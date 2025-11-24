@@ -1,0 +1,6 @@
+.:15353 {
+    docker {
+        domain example.com
+    }
+    log
+}
